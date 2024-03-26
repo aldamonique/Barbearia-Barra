@@ -1,9 +1,29 @@
 
-body{
 
+header{
+	background: #796c58;
+	padding: 20px 0;
 
 }
+.caixa {
+    display: flex;
+    align-items: center; /* Centralizar verticalmente */
+}
 
+.logo-texto {
+    display: flex;
+    align-items: center; /* Centralizar verticalmente */
+	font-size: 40px;
+}
+
+.logo-texto img {
+    margin-right: 10px; /* Espaçamento entre a imagem e o texto */
+}
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
 .titulo1{
 	padding-left: 20px;
 }

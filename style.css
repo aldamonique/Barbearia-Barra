@@ -3,9 +3,23 @@ body{
 }
 
 header{
-	background: #FFEBCD;
+	background: #796c58;
 	padding: 20px 0;
-	// cima e baixo, direita e esquerda 
+
+}
+.caixa {
+    display: flex;
+    align-items: center; /* Centralizar verticalmente */
+}
+
+.logo-texto {
+    display: flex;
+    align-items: center; /* Centralizar verticalmente */
+	font-size: 40px;
+}
+
+.logo-texto img {
+    margin-right: 10px; /* Espaçamento entre a imagem e o texto */
 }
 .caixa {
 	position: relative;
@@ -122,7 +136,7 @@ form label, form legend{
 	width: 30%;
 	padding: 15px 0;
 	color: white;
-	background: 	#00FFFF;
+	background: 	#b7b5a6;
 	font-weight: bold;
 	font-size: 18px;
 	border: none;
@@ -134,8 +148,8 @@ form label, form legend{
 }
 
 .enviar:hover{
-	background: DeepSkyBlue;
-	transform: scale(1.1);
+	background: rgb(57, 57, 48);
+	transform: scale(0.8);
 }
 
 table{
