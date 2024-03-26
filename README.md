@@ -7,9 +7,18 @@ do Google Maps e vídeos do Youtube.
 
 - Captura de telas da barbearia Barra
 
-![Tela Inicial](telas/telas-1.png)
-![Tela Inicial](telas/telas-2.png)
-![Tela Inicial](telas/telas-3.png)
-![Tela Inicial](telas/telas-4.png)
-![Tela Inicial](telas/telas-5.png)
+![Tela Inicial](telas/tela-1.png)
+<br>
+
+![Tela Inicial](telas/tela-2.png)
+<br>
+
+![Tela Inicial](telas/tela-3.png)
+<br>
+
+![Tela Inicial](telas/tela-4.png)
+
+<br>
+
+![Tela Inicial](telas/tela-5.png)
 
